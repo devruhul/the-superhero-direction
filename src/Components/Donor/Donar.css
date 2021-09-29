@@ -2,7 +2,6 @@
     height: 180px;
     margin: 0 auto;
     object-fit: cover;
-    
 }
 
 .btn-icon{
@@ -19,13 +18,14 @@
     transition: .3s;
 }
 
-
 .facebook-icon{
     font-size: 30px;
 }
+
 .instagram-icon{
     font-size: 30px;
 }
+
 .linkedin-icon{
     font-size: 30px;
 }

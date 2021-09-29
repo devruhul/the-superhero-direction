@@ -7,9 +7,8 @@ const DonarArea = () => {
     const [donors,setDonors]= useState([]);
     const [carts , setCarts] =useState([]);
     
-
   
-// fack data call
+// fake data call
 
     useEffect(()=>{
         fetch("./FackData.json")
@@ -23,13 +22,7 @@ const DonarArea = () => {
     const countDonar = (donor)=> {
         const newDonor = [...carts , donor];
         setCarts(newDonor)
-
-
-       
     }
-
-    
-
     return (
         <div>
             <div className="container">
@@ -40,8 +33,7 @@ const DonarArea = () => {
                             donors.map(donor=> <Donor 
                                 key={donor.id}
                                 donor={donor}
-                                countDonor={countDonar}
-                    > </Donor>)      
+                                countDonor={countDonar}> </Donor>)      
                         }   
                         
                     </div>

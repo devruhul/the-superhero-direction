@@ -10,7 +10,7 @@ const DonorDetails = (props) => {
             <div className="donor-details d-flex ">
                 <img className="cart-img" src={img} alt="" />
                 <div className = "ms-2">
-                <h6 > {name}</h6>
+                <h6>{name}</h6>
                 <p>Worth:{netWorth}</p>
                 </div>
             </div>
