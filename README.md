@@ -1,23 +1,22 @@
-<!-- site name  -->
+<!-- Site name  -->
 
-Site name:  Donate for Climate changing
+Site name:  Help Poverty People
 
 <!-- live site link  -->
-# My live site link : https://admiring-wiles-bd865e.netlify.app/
-
+# My live site link : https://superhero-direction-devruhul.netlify.app/
 
 # npm start 
-site will be open in  http://localhost:3000/
+Site will be open in  http://localhost:3000/
 
-<!-- call fack data  -->
+<!-- Call fack data  -->
 
-* call fackdata via using fetch 
+* Call fakedata via using fetch 
 
-<!-- site work  -->
+<!-- Site work  -->
 
-* This site use to collect donation for climate changing 
+*  This site use to collect donation for climate changing 
 
-*  sum all amount of donation money 
+*  Sum all amount of donation money 
 
-*  click the button  immediately show the img and name who donate money
+*  Click the donate button to show the img and name who donate money
 "# the-superhero-direction-devruhul" 
