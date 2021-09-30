@@ -9,7 +9,7 @@
 }
 
 .cart-details{
-    background:hsl(50, 69%, 81%);
+    background:hsla(335, 78%, 55%, 0.445);
     transition: .3s;
 }
 
