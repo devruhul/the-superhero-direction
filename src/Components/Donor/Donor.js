@@ -6,9 +6,10 @@ const Donor = (props) => {
     
   // donor details in cart 
     return (
-        <div className='p-2 '> 
-            <div className="col  ">
+        <div className="p-2"> 
+          <div className="col">
     <div className="card h-100 cart-details">
+      
         <div className='img-area'>
         <img src={img} className="card-img-top donor-img" alt="..."/>
         </div>
