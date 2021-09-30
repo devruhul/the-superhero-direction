@@ -19,4 +19,3 @@ Site will be open in  http://localhost:3000/
 *  Sum all amount of donation money 
 
 *  Click the donate button to show the img and name who donate money
-"# the-superhero-direction-devruhul" 
