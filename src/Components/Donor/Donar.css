@@ -1,34 +1,31 @@
-.donor-img{  
-    height: 180px;
-    margin: 0 auto;
-    object-fit: cover;
+.donor-img {
+  height: 180px;
+  margin: 0 auto;
+  object-fit: cover;
 }
 
-.btn-icon{
-    margin-right: 6px;
+.btn-icon {
+  margin-right: 6px;
 }
 
-.cart-details{
-    background:hsla(335, 78%, 55%, 0.445);
-    transition: .3s;
+.cart-details {
+  background: hsla(335, 78%, 55%, 0.445);
+  transition: 0.3s;
 }
 
-.cart-details:hover{
-    transform: translateY(-10px);
-    transition: .3s;
+.cart-details:hover {
+  transform: translateY(-10px);
+  transition: 0.3s;
 }
 
-.facebook-icon{
-    font-size: 30px;
+.facebook-icon {
+  font-size: 30px;
 }
 
-.instagram-icon{
-    font-size: 30px;
+.instagram-icon {
+  font-size: 30px;
 }
 
-.linkedin-icon{
-    font-size: 30px;
+.linkedin-icon {
+  font-size: 30px;
 }
-
-
-

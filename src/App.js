@@ -6,10 +6,10 @@ import DonarArea from './Components/DonarArea/DonarArea';
 function App() {
   return (
     <div className="App">
-      
-    <Header></Header>
-    <DonarArea></DonarArea>
-      
+
+      <Header></Header>
+      <DonarArea></DonarArea>
+
     </div>
   );
 }
