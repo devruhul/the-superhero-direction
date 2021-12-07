@@ -3,7 +3,7 @@
 Site name:  Help Poverty People
 
 <!-- live site link  -->
-# My live site link :[Help Poverty People](https://superhero-direction-devruhul.netlify.app/).
+# My live site link : [Help Poverty People](https://superhero-direction-devruhul.netlify.app/).
 
 # npm start 
 Site will be open in  http://localhost:3000/
